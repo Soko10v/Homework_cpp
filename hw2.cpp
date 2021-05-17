@@ -10,13 +10,13 @@ int main()
     short small = 2;
     long big = 22222;
     long long very_big = 222222222;
-    std::cout <<  "созднны переменные" << std::endl;
+    std::cout <<  "созднны  переменные" << std::endl;
     
     //2
     enum TicTakToe{empty, X, O};
     
     //3
-    int TicTakArr [9]={1,0,0,2,1,1,2,1,2};
+    int TicTakArr [9]={1,1,0,2,1,1,2,1,2};
     
     
     //4
