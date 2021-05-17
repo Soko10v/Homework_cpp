@@ -16,7 +16,8 @@ int main()
     enum TicTakToe{empty, X, O};
     
     //3
-    int TicTakArr [9]={1,0,0,2,1,2,2,1,2};
+    int TicTakArr [9]={1,0,0,2,1,1,2,1,2};
+    
     
     //4
     struct field
